@@ -19,7 +19,7 @@ pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 import google.generativeai as genai
 
 # Replace with your actual Gemini API key
-GEMINI_API_KEY = "AIzaSyBq0ByvTKMLd_qBmHboGAGrFcizR41WQyA"
+GEMINI_API_KEY = "And key here"
 genai.configure(api_key=GEMINI_API_KEY)
 
 #########################

@@ -55,7 +55,7 @@ This repository contains an **AI-powered conversational application** designed t
 
 ---
 
-## Setup and Installation
+## Setup 
 
 ### Prerequisites
 1. **Python 3.9+**
@@ -66,8 +66,3 @@ This repository contains an **AI-powered conversational application** designed t
 3. **Google Gemini API Key**:
    - Obtain an API key from Google Generative AI.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/conversational-report-analysis.git
-   cd conversational-report-analysis

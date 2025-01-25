@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pytesseract
+Pillow
+langchain_community
+google-generativeai
+sentence-transformers
+pytesseract
+faiss-cpu
+beautifulsoup4
